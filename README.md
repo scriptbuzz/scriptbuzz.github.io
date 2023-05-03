@@ -1,4 +1,5 @@
-**Title: Harnessing the Power of BigQuery for ML Datasets: Strategies and Best Practices**
+## Title: Harnessing the Power of BigQuery for ML Datasets: Strategies and Best Practices ##
+
 
 ## Introduction: ##
 
